@@ -1,6 +1,6 @@
 # Fairly Exhaustive Slow-Carb Food List
 
-[url](http://www.findingmyfitness.com/2013/09/fairly-exhaustive- slow-carb-food-list/)
+[List](http://www.findingmyfitness.com/2013/09/fairly-exhaustive-slow-carb-food-list/)
 
 It’s no secret that the food list Tim Ferriss has in The 4-Hour Body is not very long. The trouble with it is that you get all these “purists” (as I call them) thinking you can’t eat anything outside of that list, and as a result people get bored with the foods.
 Now, I can give you a slow-carb meal plan. I’ve created one you can sign up for if you don’t feel like planning your own meals.
@@ -12,7 +12,7 @@ How about 12,000+ unique meals?
 I’ve put together a “matrix” of slow-carb foods that should help you put together meals for any occasion. I got the idea from Robb Wolf, who did this for one of his clients who said she was bored with eating Paleo.
 Below you’ll see a chart of over 100 food items that are totally approved for consumption on the slow-carb diet. To make a meal, pick something from each column (the “Extras” column is optional), and throw it on a plate! The amount of preparation and presentation is up to you.
 
-**Proteins**
+### Proteins
 
 * Anchovies 
 * Bass
@@ -49,7 +49,7 @@ Below you’ll see a chart of over 100 food items that are totally approved for 
 * Tuna
 * Turkey
 
-**Vegetables**
+### Vegetables
 
 * Artichoke Hearts 
 * Arugula 
@@ -109,7 +109,7 @@ Below you’ll see a chart of over 100 food items that are totally approved for 
 * Sweet Potato*
 * Yam*
 
-**Legumes**
+### Legumes
 
 * Black beans
 * Black-eyed Peas 
@@ -122,7 +122,7 @@ Below you’ll see a chart of over 100 food items that are totally approved for 
 * Red Beans 
 * Chickpeas **
 
-**Spices**
+### Spices
 
 * Allspice
 * Anise
@@ -160,7 +160,7 @@ Below you’ll see a chart of over 100 food items that are totally approved for 
 * Thyme
 * Turmeric
 
-**Fats/Oils/Nuts**
+### Fats/Oils/Nuts
 
 * Avocado
 * Clarified butter Coconut Oil
@@ -172,10 +172,12 @@ Below you’ll see a chart of over 100 food items that are totally approved for 
 * Sunflower Seeds** 
 * Walnuts**
 
-**Extras**
+### Extras
 
 * Beef Broth
-* Nut Butters Chicken Broth Coconut Milk
+* Nut Butters
+* Chicken Broth 
+* Coconut Milk
 * Fish Sauce
 * Hot Sauce Hummus
 * Lemon Juice
