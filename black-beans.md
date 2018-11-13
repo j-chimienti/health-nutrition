@@ -11,7 +11,9 @@ while only modestly increasing cooking time.
 ### Ingredients
 
 1. 1 lb dried black beans
-1. 8 cloves garlic 1. 1 yellow Onion 3. 1 Orange
+1. 8 cloves garlic 
+1. 1 yellow Onion 
+1. 1 Orange
 
 ### Directions
 
