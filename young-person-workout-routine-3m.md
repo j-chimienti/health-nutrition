@@ -1,5 +1,8 @@
 # Young People 3 month Routine
 
+Abs - 4 sets a workout, something for upper abs, 
+then next time something for lower abs
+
 ### Day 1-Legs
 
 Leg Curls 4x8-12 
@@ -36,7 +39,4 @@ Chinups/pullups 4x6-10
 
 Hammer Curls 5x10-12
 
-Abs, do whatever you want
 
-Id suggest doing 4 sets a workout, something for upper abs, 
-then next time something for lower abs
