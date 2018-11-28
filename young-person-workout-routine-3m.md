@@ -1,6 +1,6 @@
 # Young People 3 month Routine
 
-Day 1-Legs
+### Day 1-Legs
 
 Leg Curls 4x8-12 
 
@@ -10,7 +10,7 @@ Leg Press 3x20
 
 Walking DB Lunges 4x8 steps per leg
 
-Day 2-Pushing 
+### Day 2-Pushing 
 
 Incline Bench 5x5 
 
@@ -22,7 +22,7 @@ Pushups 2xAMAP
 
 Tricep pushdowns 4x10-12
 
-Day 3-Pull
+### Day 3-Pull
 
 Seated Neutral grip row 5x8-10
 
