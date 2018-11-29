@@ -1,6 +1,6 @@
 # Sauna
 
-## Hyperthermic Conditioning for Hypertrophy, Endurance, and Neurogenesis
+## [Hyperthermic Conditioning for Hypertrophy, Endurance, and Neurogenesis](https://www.youtube.com/embed/aHOlM-wlNjM)
 
 1. Improved Endurance
 1. increase growth of brain cells
@@ -8,7 +8,6 @@
 1. improve learning and memory
 1. Associated with longevity
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aHOlM-wlNjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Increase capacity for endurance
     * skin -> improves thermoregulatory control and reducing core temperature during workload
@@ -18,6 +17,8 @@
 1. Affect brain function and chemistry
 
 ### Real world Endurance Gains from Hyperthermic Conditioning
+
+**Scenario**
 
 6 distance runners 30 min sauna 2x week after run
 
@@ -39,6 +40,7 @@
  they are heat stressed during reloading
 
 2 isolated back to back 20 min sessions at 80 cel boosts GH 2x
+
 2 1 hr sessions per day at 80cel for a week causes 16 fold (1600%)
 
 15% increase lifespan in flies and worms
@@ -47,10 +49,11 @@ increase in proteins associated with stress tolerance
 
 ### Neuroendocrine Effects of heat stress
 
+1. Increased focus and attention
+1. Increased growth of new brain cells
+
 Increase norepinephrine 3-fold and prolactin 10-fold
 and increase capacity to store norepinephrine
-
-norepinephrine focus attention
 
 ### Heat Stress and Neurogenesis
 
