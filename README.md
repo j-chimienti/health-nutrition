@@ -2,6 +2,15 @@
 
 ### Workouts
 
+
+Basic Movements
+
+1. Push
+1. Pull
+1. Squat
+1. Hip hinge
+1. Carry
+
 1. [70s program](70s-bulk.md)
 1. [Skinny Fat](ajac_skinny_fat.md)
 1. [High Frequency](high-frequency-program.md)
