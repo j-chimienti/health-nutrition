@@ -3,9 +3,6 @@
 ![human food diet](human-food-diet.png)
 
 
-                                 |
-
-
 **Eat**
 1. Meat on bone
 1. Animal Products
@@ -17,10 +14,23 @@
 1. Sugar
 1. Seed oils
 
-### Workouts
+
+##### Resources
+
+1. [5 Rules of Slow Carb Diet](slow-carb-diet-5-rules.md)
+1. [foods](slow_carb_foods.md)
+1. Deep Nutrition
+1. [strong medicine](strong-medicine-blake-donaldson.pdf)
+1. [fat of the land](the-fat-of-the-land-vilhjalmur-stefansson.pdf)
+1. [stone age diet](the-stone-age-diet-walter-l-voegtlin.pdf)
 
 
-Basic Movements
+
+
+## Workouts
+
+
+**Basic Movements**
 
 1. Push
 1. Pull
@@ -28,7 +38,7 @@ Basic Movements
 1. Hip hinge
 1. Carry
 
-**Programs**
+**Workout Programs**
 
 1. [70s program](70s-bulk.md)
 1. [Skinny Fat](ajac_skinny_fat.md)
@@ -37,7 +47,7 @@ Basic Movements
 1. [Ass](Ass-workout.md)
 1. [Forearm growth](bicep-forearm-growth.md)
 
-### Info
+##### Resources
 
 [Daily Yoga](https://www.youtube.com/watch?v=RhbtJn9vcyc&list=PLRysCgw7PeiEqppXyRc6Y2EmM37ZioZeP)
 
@@ -50,20 +60,6 @@ Basic Movements
 [Perfect Posture](perfect-posture.md)
 
 [Body types](bodytypes.md)
-
-### Diet
-
-1. [5 Rules of Slow Carb Diet](slow-carb-diet-5-rules.md)
-1. [foods](slow_carb_foods.md)
-
-**Books**
-
-1. Deep Nutrition
-1. [strong medicine](strong-medicine-blake-donaldson.pdf)
-1. [fat of the land](the-fat-of-the-land-vilhjalmur-stefansson.pdf)
-1. [stone age diet](the-stone-age-diet-walter-l-voegtlin.pdf)
-
-
 
 
 
