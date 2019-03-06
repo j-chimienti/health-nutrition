@@ -2,6 +2,21 @@
 
 ![human food diet](human-food-diet.png)
 
+
+                                 |
+
+
+**Eat**
+1. Meat on bone
+1. Animal Products
+1. Fresh Veggies
+
+
+**Avoid**
+1. Refined Carbs
+1. Sugar
+1. Seed oils
+
 ### Workouts
 
 
@@ -52,9 +67,4 @@ Basic Movements
 
 
 
-Avoid                                 | Eat
-------------------------------------- | ---------
-Seed oils (vegetable oil, canola oil) | Meat on Bone
-Sugar                                 | Animal Products
-Refined Carbs                         | Fresh Veggies
 
