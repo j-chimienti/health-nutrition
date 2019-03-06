@@ -2,12 +2,12 @@
 
 ### Workouts
 
-1. [70s program](70s-bulk.md)
-1. [Skinny Fat](ajac_skinny_fat.md)
-1. [High Frequency](high-frequency-program.md)
-1. [Young Dudes](young-person-workout-routine-3m.md)
-1. [Ass](Ass-workout.md)
-1. [Forearm growth](bicep-forearm-growth.md)
+* [70s program](70s-bulk.md)
+* [Skinny Fat](ajac_skinny_fat.md)
+* [High Frequency](high-frequency-program.md)
+* [Young Dudes](young-person-workout-routine-3m.md)
+* [Ass](Ass-workout.md)
+* [Forearm growth](bicep-forearm-growth.md)
 
 ### Info
 

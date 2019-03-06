@@ -1,4 +1,4 @@
-# Sauna
+# [Sauna](https://tim.blog/2014/04/10/saunas-hyperthermic-conditioning-2/)
 
 ## [Hyperthermic Conditioning for Hypertrophy, Endurance, and Neurogenesis](https://www.youtube.com/embed/aHOlM-wlNjM)
 
