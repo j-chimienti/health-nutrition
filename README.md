@@ -18,13 +18,12 @@
 ##### Resources
 
 1. [Nutrition and Physical Degredation WESTON A. PRICE](http://gutenberg.net.au/ebooks02/0200251h.html)
-1. [5 Rules of Slow Carb Diet](slow-carb-diet-5-rules.md)
-1. [foods](slow_carb_foods.md)
 1. Deep Nutrition
 1. [strong medicine](strong-medicine-blake-donaldson.pdf)
 1. [fat of the land](the-fat-of-the-land-vilhjalmur-stefansson.pdf)
 1. [stone age diet](the-stone-age-diet-walter-l-voegtlin.pdf)
-
+1. [5 Rules of Slow Carb Diet](slow-carb-diet-5-rules.md)
+1. [foods](slow_carb_foods.md)
 
 
 
