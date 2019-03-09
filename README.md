@@ -17,6 +17,7 @@
 
 ##### Resources
 
+1. [Nutrition and Physical Degredation WESTON A. PRICE](http://gutenberg.net.au/ebooks02/0200251h.html)
 1. [5 Rules of Slow Carb Diet](slow-carb-diet-5-rules.md)
 1. [foods](slow_carb_foods.md)
 1. Deep Nutrition
