@@ -1,9 +1,38 @@
 # Health and Nutrition
 
-### Workouts
 
 
-Basic Movements
+
+**Eat**
+1. Meat on bone
+1. Animal Products
+1. Fresh Veggies
+
+
+**Avoid**
+1. Refined Carbs
+1. Sugar
+1. Seed oils
+
+
+##### Resources
+
+1. [Nutrition and Physical Degredation - WESTON A. PRICE](http://gutenberg.net.au/ebooks02/0200251h.html)
+1. Deep Nutrition - Cate Shanahan
+1. Good Calories, Bad Calorie - Gary Taub
+1. Big Fat Surprise - Nina Teicholz
+1. [strong medicine](strong-medicine-blake-donaldson.pdf)
+1. [fat of the land](the-fat-of-the-land-vilhjalmur-stefansson.pdf)
+1. [stone age diet](the-stone-age-diet-walter-l-voegtlin.pdf)
+1. [5 Rules of Slow Carb Diet](slow-carb-diet-5-rules.md)
+1. [foods](slow_carb_foods.md)
+
+![human food diet](human-food-diet.png)
+
+## Workouts
+
+
+**Basic Movements**
 
 1. Push
 1. Pull
@@ -11,7 +40,7 @@ Basic Movements
 1. Hip hinge
 1. Carry
 
-**Programs**
+**Workout Programs**
 
 1. [70s program](70s-bulk.md)
 1. [Skinny Fat](ajac_skinny_fat.md)
@@ -20,7 +49,7 @@ Basic Movements
 1. [Ass](Ass-workout.md)
 1. [Forearm growth](bicep-forearm-growth.md)
 
-### Info
+##### Resources
 
 [Daily Yoga](https://www.youtube.com/watch?v=RhbtJn9vcyc&list=PLRysCgw7PeiEqppXyRc6Y2EmM37ZioZeP)
 
@@ -34,25 +63,6 @@ Basic Movements
 
 [Body types](bodytypes.md)
 
-### Diet
-
-1. [5 Rules of Slow Carb Diet](slow-carb-diet-5-rules.md)
-1. [foods](slow_carb_foods.md)
-
-**Books**
-
-1. Deep Nutrition
-1. [strong medicine](strong-medicine-blake-donaldson.pdf)
-1. [fat of the land](the-fat-of-the-land-vilhjalmur-stefansson.pdf)
-1. [stone age diet](the-stone-age-diet-walter-l-voegtlin.pdf)
 
 
-
-
-
-Avoid                                 | Eat
-------------------------------------- | ---------
-Seed oils (vegetable oil, canola oil) | Meat on Bone
-Sugar                                 | Animal Products
-Refined Carbs                         | Fresh Veggies
 
