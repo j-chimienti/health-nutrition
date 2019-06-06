@@ -1,6 +1,6 @@
 # Loaded Carries
 
-## Author: [drjohnrusin](https://drjohnrusin.com/loaded-carries/)
+### Author: [Dr. Rusin](https://drjohnrusin.com/loaded-carries/)
 
 Loaded carries, no matter what variation you choose, challenges the core more than any crunch or direct core training exercise ever could, but also provides a test for grip strength and full body stability
 
