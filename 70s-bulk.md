@@ -7,11 +7,7 @@ nd bodyweight movements afterwards for further building
 
 There are no machines, no cables, no complicated rep schemes.
 
-You are only training 4 days a week, but the workouts are pretty brutal. Y
-
-you will be tired, you will be sore
-
-expect to be in the gym for a solid hour. Each workout is 25 total sets
+You are only training 4 days a week, but the workouts are pretty brutal. You will be tired, you will be soreexpect to be in the gym for a solid hour. Each workout is **25 total sets.**
 
 You do 5 sets for every exercise. You can do the same weight all sets, you can pyramid the weight up, you can do reverse pyramids and start with low reps then do higher reps
 This is up to you
