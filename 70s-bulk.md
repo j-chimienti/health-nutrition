@@ -14,13 +14,13 @@ This is up to you
 
 ## Program Diet
 
--Eat 3 meals a day
--Eat your bodyweight x 16 in calories on training days, 12x on non training days
--Each meal should have at least 8oz of protein, plus a sizeable amount of carbs. Dont worry about fat
--Have a protein shake before training, and before going to bed at night
--Get your protein from chicken, beef, fish, pork, and eggs
--Get your carbs from rice, oatmeal, and pasta
--Drink a gallon of water a day
+- Eat 3 meals a day
+- Eat your bodyweight x 16 in calories on training days, 12x on non training days
+- Each meal should have at least 8oz of protein, plus a sizeable amount of carbs. Dont worry about fat
+- Have a protein shake before training, and before going to bed at night
+- Get your protein from chicken, beef, fish, pork, and eggs
+- Get your carbs from rice, oatmeal, and pasta
+- Drink a gallon of water a day
 
 ## Warmup 
 
